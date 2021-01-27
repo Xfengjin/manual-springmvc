@@ -1,2 +1,1 @@
-# manual-springmvc
-~{1>ND=vWwN*8vHKQ'O0J9SC#,2;WvFdK{HN:NSC4&!#~}
+# manual-springmonly only used for personal study, please do not use for any other purpose
