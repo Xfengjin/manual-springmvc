@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans>
+
+    <!--配置创建容器的时候要扫描的包-->
+    <component-scan base-package="com.tuling.springmvc.logic.controller, com.tuling.springmvc.logic.service"/>
+
+</beans>
